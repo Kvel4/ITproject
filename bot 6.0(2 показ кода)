@@ -172,7 +172,7 @@ class Priority:
             bot.send_message(message_id, s)
 
 
-bot = telebot.TeleBot('534489748:AAHshR88itmKmN_5HSQZeMdZ1CY3zTz60aI')
+bot = telebot.TeleBot('568171932:AAFqVYBHASYegT6PXMUgsufK3Adw-Ze6io4')
 joke = ["Подождите, шутим про Кел'Тузада",
         'Подождите, кормим программиста',
         'Подождите, пытаемся спрятаться от дедлайна']
