@@ -451,4 +451,4 @@ def general(message):
 
 
 if __name__ == '__main__':
-    bot.polling(none_stop=True, timeout=1000)
+    bot.polling(none_stop=True, timeout=10000)
